@@ -1,0 +1,72 @@
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.exe.config
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.exe.manifest
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.application
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.exe
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.pdb
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\DBModifyPage.baml
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\MainWindow.baml
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\ServerConnectionSettings.baml
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\ServerConnectionSettingsAuthorization.baml
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\DBModifyPage.g.cs
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\MainWindow.g.cs
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\ServerConnectionSettings.g.cs
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\ServerConnectionSettingsAuthorization.g.cs
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\App.g.cs
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager_MarkupCompile.cache
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.g.resources
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.Properties.Resources.resources
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.csproj.GenerateResource.Cache
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.exe.manifest
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.application
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.exe
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.pdb
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\DeleteConfirmationWindow.baml
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\DeleteConfirmationWindow.g.cs
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\bin\Debug\Database_Transfer_icon_full.jpg
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\bin\Debug\330492_10150466928133136_617060105_o.jpg
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.XML
+C:\Users\Souham Biswas\Documents\Visual Studio 2012\JKPlacementsDBManager\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.csprojResolveAssemblyReference.cache
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.exe.config
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.XML
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.exe
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.pdb
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\330492_10150466928133136_617060105_o.jpg
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\Database_Transfer_icon_full.jpg
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.exe.manifest
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.application
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.exe
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.pdb
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.csprojResolveAssemblyReference.cache
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\DBModifyPage.baml
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\DeleteConfirmationWindow.baml
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\MainWindow.baml
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\ServerConnectionSettings.baml
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\ServerConnectionSettingsAuthorization.baml
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\DBModifyPage.g.cs
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\DeleteConfirmationWindow.g.cs
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\MainWindow.g.cs
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\ServerConnectionSettings.g.cs
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\ServerConnectionSettingsAuthorization.g.cs
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\App.g.cs
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager_MarkupCompile.cache
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.g.resources
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.Properties.Resources.resources
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.csproj.GenerateResource.Cache
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.exe.manifest
+G:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.application
+I:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.exe.config
+I:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.XML
+I:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.exe
+I:\UNCLASSIFIED\JK Placements DB Manager Stuff\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.pdb
+C:\Users\monst_000\SkyDrive\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.exe.config
+C:\Users\monst_000\SkyDrive\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.XML
+C:\Users\monst_000\SkyDrive\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.exe
+C:\Users\monst_000\SkyDrive\JK Placements DB Manager App Backups\.NET 4.0\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.pdb
+C:\Users\monst_000\OneDrive\Internship files & Project Backups\College Mini-Projects\5th Sem Mini-Project (JK Placements Manager)\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.exe.config
+C:\Users\monst_000\OneDrive\Internship files & Project Backups\College Mini-Projects\5th Sem Mini-Project (JK Placements Manager)\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.XML
+C:\Users\monst_000\OneDrive\Internship files & Project Backups\College Mini-Projects\5th Sem Mini-Project (JK Placements Manager)\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.exe
+C:\Users\monst_000\OneDrive\Internship files & Project Backups\College Mini-Projects\5th Sem Mini-Project (JK Placements Manager)\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.pdb
+C:\Users\ironhide23586\OneDrive\Internship files & Project Backups\College Mini-Projects\5th Sem Mini-Project (JK Placements Manager)\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.exe.config
+C:\Users\ironhide23586\OneDrive\Internship files & Project Backups\College Mini-Projects\5th Sem Mini-Project (JK Placements Manager)\JKPlacementsDBManager13\JKPlacementsDBManager\bin\Debug\JKPlacementsDBManager.XML
+C:\Users\ironhide23586\OneDrive\Internship files & Project Backups\College Mini-Projects\5th Sem Mini-Project (JK Placements Manager)\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.exe
+C:\Users\ironhide23586\OneDrive\Internship files & Project Backups\College Mini-Projects\5th Sem Mini-Project (JK Placements Manager)\JKPlacementsDBManager13\JKPlacementsDBManager\obj\Debug\JKPlacementsDBManager.pdb

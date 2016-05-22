@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="87b93a50-95a8-4c2d-a03c-27dca376f1a3">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>JKPlacementsDBManager/MainWindow.xaml.cs</FileRelativePath>
+        <ProjectRelativePath>JKPlacementsDBManager/JKPlacementsDBManager.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>17446301914529513227</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

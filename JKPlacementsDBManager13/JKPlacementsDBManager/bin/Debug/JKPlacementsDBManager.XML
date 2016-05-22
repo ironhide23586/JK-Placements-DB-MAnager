@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JKPlacementsDBManager</name>
+    </assembly>
+    <members>
+        <member name="T:JKPlacementsDBManager.DBModifyPage">
+            <summary>
+            Interaction logic for DBModifyPage.xaml
+            </summary>
+            <summary>
+            DBModifyPage
+            </summary>
+        </member>
+        <member name="M:JKPlacementsDBManager.DBModifyPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:JKPlacementsDBManager.DeleteConfirmationWindow">
+            <summary>
+            Interaction logic for DeleteConfirmationWindow.xaml
+            </summary>
+            <summary>
+            DeleteConfirmationWindow
+            </summary>
+        </member>
+        <member name="M:JKPlacementsDBManager.DeleteConfirmationWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:JKPlacementsDBManager.ServerConnectionSettings">
+            <summary>
+            Interaction logic for ServerConnectionSettings.xaml
+            </summary>
+            <summary>
+            ServerConnectionSettings
+            </summary>
+        </member>
+        <member name="M:JKPlacementsDBManager.ServerConnectionSettings.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:JKPlacementsDBManager.ServerConnectionSettingsAuthorization">
+            <summary>
+            Interaction logic for ServerConnectionSettingsAuthorization.xaml
+            </summary>
+            <summary>
+            ServerConnectionSettingsAuthorization
+            </summary>
+        </member>
+        <member name="M:JKPlacementsDBManager.ServerConnectionSettingsAuthorization.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:JKPlacementsDBManager.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:JKPlacementsDBManager.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:JKPlacementsDBManager.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:JKPlacementsDBManager.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:JKPlacementsDBManager.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:JKPlacementsDBManager.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:JKPlacementsDBManager.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:JKPlacementsDBManager.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

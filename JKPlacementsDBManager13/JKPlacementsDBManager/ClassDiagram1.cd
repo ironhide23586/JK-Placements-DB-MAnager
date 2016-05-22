@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JKPlacementsDBManager.App" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JKPlacementsDBManager.DBConnect" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAAACBBAACEUBAAAAAABAABRSAAApAAgAAAgAAARI=</HashCode>
+      <FileName>DBConnect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JKPlacementsDBManager.DBModifyPage" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAEAACAAAAAAAAAABAAAAAAAAAAAQACAAAA=</HashCode>
+      <FileName>DBModifyPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JKPlacementsDBManager.MainWindow" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgCEAgQAggAAAAIAAgABGAzAAQAAAACAAAAACACCACQ=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JKPlacementsDBManager.ServerConnectionSettings" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>ServerConnectionSettings.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JKPlacementsDBManager.ServerConnectionSettingsAuthorization" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAABBAAAAAAAAAAA=</HashCode>
+      <FileName>ServerConnectionSettingsAuthorization.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JKPlacementsDBManager.Properties.Resources" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JKPlacementsDBManager.Properties.Settings" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
